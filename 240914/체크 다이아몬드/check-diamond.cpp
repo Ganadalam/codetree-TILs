@@ -2,7 +2,9 @@
 using namespace std;
 
 int main() {
-    int n = 3; // 다이아몬드의 중간 부분 별의 수
+    int n;
+    cout << "";
+    cin >> n;
 
     // 위쪽 부분
     for (int i = 1; i <= n; i++) {
